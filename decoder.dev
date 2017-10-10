@@ -61,7 +61,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit1]
-FileName=cube-decoder.c
+FileName=cube3-decoder.c
 CompileCpp=0
 Folder=
 Compile=1
