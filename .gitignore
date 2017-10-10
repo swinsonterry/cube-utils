@@ -1,7 +1,0 @@
-*.o
-tests/*.result*
-Debug
-Release
-.suo
-*.VC.db
-*.VC.VC.opendb
