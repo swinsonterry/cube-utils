@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=..\blowfish.c
+FileName=blowfish.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -61,7 +61,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit1]
-FileName=..\cube-decoder.c
+FileName=cube-decoder.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -71,7 +71,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit3]
-FileName=..\blowfish.h
+FileName=blowfish.h
 CompileCpp=0
 Folder=
 Compile=1
